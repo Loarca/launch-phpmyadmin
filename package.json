@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Loarca/launch-phpmyadmin/issues"
   },
-  "homepage": "https://github.com/Loarca/launch-phpmyadmin#readme"
+  "homepage": "https://github.com/Loarca/launch-phpmyadmin#readme",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  }
 }

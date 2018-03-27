@@ -1,0 +1,27 @@
+{
+  "name": "launch-phpmyadmin",
+  "version": "0.1.0",
+  "description": "An easy to use script that launches phpmyadmin dockerized",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loarca/launch-phpmyadmin.git"
+  },
+  "keywords": [
+    "launch",
+    "phpmyadmin",
+    "docker",
+    "script",
+    "portable",
+    "server"
+  ],
+  "author": "Alejandro Loarca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Loarca/launch-phpmyadmin/issues"
+  },
+  "homepage": "https://github.com/Loarca/launch-phpmyadmin#readme"
+}
